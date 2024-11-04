@@ -1,5 +1,5 @@
 # STEP 1: build pdfact
-FROM ubuntu:22.04
+FROM ubuntu:24.04
 LABEL maintainer="Daniel Bauer <dev@dbauer.me>"
 
 ENV DEBIAN_FRONTEND=noninteractive
